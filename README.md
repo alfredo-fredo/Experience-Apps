@@ -1,4 +1,4 @@
-<h3 style="font-size: 85%;">App-developer student - iOS, Android, Webb & Cross-platform</h3>
+<h3 style="font-size: 85%;">App-developer student - iOS, Android, Web & Cross-platform</h3>
 
 <p>I have a big interest in economy and personal finance so that led me to develop a few
         easy but very useful calculators to calculate investment potential, interest expenses etc.
