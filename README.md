@@ -1,6 +1,6 @@
 <h3 style="font-size: 85%;">App-developer student - iOS, Android, Web & Cross-platform</h3>
 
-<p>I have a big interest in economy and personal finance so that led me to develop a few
+<p>I have a big interest in economy and personal finance which led me to develop a few
         easy but very useful calculators to calculate investment potential, interest expenses etc.
         <br> All made with Android studio.
         <a style="text-decoration: underline; color: darkslategrey;" href="https://play.google.com/store/apps/developer?id=Savings+and+Finance+Studio&hl=en">Visit my apps.</a>
