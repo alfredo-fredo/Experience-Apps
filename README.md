@@ -9,6 +9,7 @@
         I've also used Flutter for cross-platform development and have a game published
         that i developed after a request from a friend. 
         <a style="text-decoration: underline; color: darkslategrey;" href="https://play.google.com/store/apps/details?id=shipment.studio.tapgame&hl=en">Check out Flutter game.</a>
+        ATTN: I do not maintain the developer account that it is uploaded with. :)
 </p>
 <br>
 <br>
@@ -22,3 +23,7 @@
             <li>Unity game engine</li>
         </ul>
     </legend>
+    
+<p>Currently in the learning of fullstack web development, with technologies like Vue & Node.js.
+<br>Please shoot me a message if you have any questions or just want a chat. Have a good day! :-)
+</p>
