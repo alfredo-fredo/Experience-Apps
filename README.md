@@ -1,6 +1,6 @@
 <h3 style="font-size: 85%;">App-developer student - iOS, Android, Web & Cross-platform</h3>
 
-<p>I have a big interest in economy and personal finance which led me to develop a few
+<p style="font-size: 110%;">I have a big interest in economy and personal finance which led me to develop a few
         easy but very useful calculators to determine investment potential, interest expenses etc.
         <br> All made with Android studio.
         <a style="text-decoration: underline; color: darkslategrey;" href="https://play.google.com/store/apps/developer?id=Savings+and+Finance+Studio&hl=en">Visit my apps.</a>
@@ -25,6 +25,6 @@
         </ul>
     </legend>
     
-<p>Currently in the learning of fullstack web development, with technologies like Vue & Node.js.
+<p style="font-size: 110%;">Currently in the learning of fullstack web development, with technologies like Vue & Node.js.
 <br>Please shoot me a message if you have any questions or just want a chat. Have a good day! :-)
 </p>
