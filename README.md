@@ -10,7 +10,7 @@
         that i developed after a request from a friend. 
         <a style="text-decoration: underline; color: darkslategrey;" href="https://play.google.com/store/apps/details?id=shipment.studio.tapgame&hl=en">Check out Flutter game.</a>
         <br>
-        ATTN: I do not maintain the developer account that it is uploaded with. :)
+        ATTN: I do not maintain the developer account that the game is uploaded with. :)
 </p>
 <br>
 <br>
